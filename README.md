@@ -21,6 +21,6 @@
 # Starting the resource
 - add the following to your server.cfg file : ensure rsg_moonshiner
 
-# Support : please state your purchase ID, date of purchase and version
+# Support
 - discord : https://discord.gg/s5uSk56B65
 - email : rexshackuk@gmail.com
